@@ -1,2 +1,15 @@
-# eject-detective
-Find which process is blocking an external drive from ejecting on Mac.
+# eject-detective（仮名）
+
+**取り出し失敗の犯人探し**
+
+## 課題（Mac標準の不便）
+「使用中です」と言われても、どのプロセスが掴んでいるか分からない。
+
+## 計画している機能
+- 使用中プロセスの特定と表示
+- 安全な終了の提案
+- 対象ファイル一覧
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
